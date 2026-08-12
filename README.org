@@ -4,7 +4,7 @@ Proper Tail Calls for Common Lisp
 
 |---------+----------------------------------------------------|
 | source  | git:https://gitlab.common-lisp.net/frideau/ptc.git |
-| commit  | 1672f06                                            |
+| commit  | 417da1c                                            |
 | systems | ptc                                                |
 |---------+----------------------------------------------------|
   
